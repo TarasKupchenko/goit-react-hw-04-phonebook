@@ -1,0 +1,11 @@
+.filter{
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+}
+
+.filter input{
+   width: 200px;
+   border: 2px solid rgb(223, 220, 220);
+   border-radius: 5px;
+}
